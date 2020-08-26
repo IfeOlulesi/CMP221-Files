@@ -1,0 +1,65 @@
+What is Object Oriented Programming?
+	- We use the object to display the properties of the object
+	- Java said efritin in the world is an object
+	- A class is a blueprint/template for creating objects
+	- A class is an object constructor
+	
+	Functions in objects are called methods
+	
+	
+Method
+	This is a block of code which only runs when it is called.
+	A method is a function inside a class
+	
+	
+Class
+	A class is a java program with methods and properties
+
+
+Static Methods:
+  these are methods that can be run without creating the object of the class
+
+Non-Static Methods:
+  these are methods that must be run with the object of the class
+
+-----------------------------------------------------------------------------------
+OOP
+
+Inheritance
+
+	whenever you use the super keyword, you are calling the constructor of the parent class
+	and you must provide corresponding parameters as required by that constructor
+
+	Purpose of inheritance is to reuse code
+
+
+MODIFIERS
+	These are keywords 
+
+
+FINAL
+
+	- When a class is final, it can never be inherited
+	- When a function is defined final, it can never be over-ridden		
+
+
+ABSTRACT 
+  - An abstract class can inherit from an abstract class
+  - It must have a child class- It must be inherited.
+
+
+
+  - An abstract method is a method that must be implemented i.e. must be given a body
+
+
+A final class can't be inherited -- must not be inherited
+
+
+PACKAGES
+  - A package is a folder
+  - A package in java is used to group related classes
+  - Used to avoid name conflict
+
+  TYPES
+  - User defined
+  - Built-in packages
